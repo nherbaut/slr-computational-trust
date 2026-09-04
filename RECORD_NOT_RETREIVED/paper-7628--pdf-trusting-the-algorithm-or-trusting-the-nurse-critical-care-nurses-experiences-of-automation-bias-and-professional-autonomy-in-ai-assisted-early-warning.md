@@ -40,8 +40,8 @@ source:
   discovered_at: '2026-08-22T16:03:46.004727Z'
 workflow:
   state:
-    id: NEW
-    label: New
+    id: RECORD_NOT_RETREIVED
+    label: Record not retreived
     prisma_bucket: null
   tags: [
     ]
