@@ -28,8 +28,8 @@ source:
   discovered_at: '2026-08-20T14:03:46.008925Z'
 workflow:
   state:
-    id: NEW
-    label: New
+    id: RECORD_EXCLUDED/WRONG_TRUST_RELATION
+    label: Wrong trust relation
     prisma_bucket: null
   tags: [
     ]
