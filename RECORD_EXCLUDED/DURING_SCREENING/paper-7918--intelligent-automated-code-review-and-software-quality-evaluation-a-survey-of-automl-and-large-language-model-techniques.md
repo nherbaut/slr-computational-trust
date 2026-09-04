@@ -20,8 +20,8 @@ source:
   discovered_at: '2026-08-29T20:07:05.310529Z'
 workflow:
   state:
-    id: NEW
-    label: New
+    id: RECORD_EXCLUDED/DURING_SCREENING
+    label: During screening
     prisma_bucket: null
   tags: [
     ]
