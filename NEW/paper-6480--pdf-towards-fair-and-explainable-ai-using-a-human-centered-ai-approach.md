@@ -1,0 +1,54 @@
+---
+schema: paper-monitor/paper/v1
+paper_id: 6480
+record_type: PAPER
+bibliography:
+  title: '[PDF] Towards Fair and Explainable AI using a Human-Centered AI Approach'
+  authors: Bhavya Ghai
+  abstract: The rise of machine learning (ML) is accompanied by several high-profile cases that have stressed the need for
+    fairness, accountability, explainability and trust in ML systems. The existing literature has largely focused on fully
+    automated ML approaches that try to optimize for some performance metric. However, human-centric measures like fairness,
+    trust, explainability, etc. are subjective in nature, context-dependent, and might not correlate with conventional performance
+    metrics. To deal with these challenges, we explore a human-centered AI approach that empowers people by providing more
+    transparency and human control. In this dissertation, we present 5 research projects that aim to enhance explainability
+    and fairness in classification systems and word embeddings. The first project explores the utility/downsides of introducing
+    local model explanations as interfaces for machine teachers (crowd workers). Our study found that adding explanations
+    supports trust calibration for the resulting ML model and enables rich forms of teaching feedback. The second project
+    presents D-BIAS, a causality-based human-in-the-loop visual tool for identifying and mitigating social biases in tabular
+    datasets. Apart from fairness, we found that our tool also enhances trust and accountability. The third project presents
+    WordBias, a visual interactive tool that helps audit pre-trained static word embeddings for biases against groups, such
+    as females, or subgroups, such as Black Muslim females. The fourth project presents DramatVis Personae, a visual analytics
+    tool that helps identify social biases in creative writing. Finally, the last project presents an empirical study aimed
+    at understanding the cumulative impact of multiple fairness-enhancing interventions at different stages of the ML pipeline
+    on fairness, utility and different population groups. We conclude by discussing some of the future directions.
+  publisher: arXiv.org.
+  published_on: '2023-06-12'
+  doi: null
+links:
+  source: http://arxiv.org/abs/2306.07427v1
+  open_access: https://arxiv.org/abs/2306.07427v1
+source:
+  logical_feed_id: 26
+  logical_feed_name: SLR UPDATE
+  feed_id: 34
+  feed_name: Miage Scholar Import 2026-05-13:17:44:27 RSS
+  discovered_at: '2026-06-23T00:12:15.004277Z'
+workflow:
+  state:
+    id: NEW
+    label: New
+    prisma_bucket: null
+  tags:
+  - arxiv
+  eligibility:
+    exclusion: null
+    inclusion:
+      criteria: [
+        ]
+files:
+  pdf:
+    available: false
+    name: null
+    original_name: null
+---
+
