@@ -36,8 +36,8 @@ source:
   discovered_at: '2026-08-23T17:07:47.425026Z'
 workflow:
   state:
-    id: NEW
-    label: New
+    id: RECORD_NOT_AVAILABLE
+    label: Record not available
     prisma_bucket: null
   tags: [
     ]
