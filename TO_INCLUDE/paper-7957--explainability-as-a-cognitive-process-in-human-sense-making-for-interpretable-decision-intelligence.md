@@ -28,8 +28,8 @@ source:
   discovered_at: '2026-09-01T22:34:04.683739Z'
 workflow:
   state:
-    id: NEW
-    label: New
+    id: TO_INCLUDE
+    label: To include
     prisma_bucket: null
   tags: [
     ]
