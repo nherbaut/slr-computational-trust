@@ -20,8 +20,8 @@ source:
   discovered_at: '2026-08-25T19:04:04.007549Z'
 workflow:
   state:
-    id: NEW
-    label: New
+    id: RECORD_EXCLUDED/NOT_AN_AI-INFUSED_SYSTEM
+    label: Not an ai-infused system
     prisma_bucket: null
   tags: [
     ]
