@@ -36,8 +36,8 @@ source:
   discovered_at: '2026-08-16T12:00:51.525831Z'
 workflow:
   state:
-    id: NEW
-    label: New
+    id: RECORD_EXCLUDED/WRONG_TRUST_RELATION
+    label: Wrong trust relation
     prisma_bucket: null
   tags: [
     ]
